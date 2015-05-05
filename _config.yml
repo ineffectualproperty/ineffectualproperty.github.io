@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Kelly Olson
+tagline:             blog
+url:                 http://kellyolson.net
 paginate:            1
 baseurl:             ""
 
@@ -18,11 +18,15 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+#List of Title Pages
+pages_list:
+About: '/about'
+
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Kelly Olson
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             kelly.m.olson@gmaildotcom
 
 # Custom vars
 version:             1.0.0
