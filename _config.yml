@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Kelly Olson
-tagline:            'blog'
+tagline:             blog
 url:                 http://kellyolson.net
 paginate:            1
 baseurl:             ""
