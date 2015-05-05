@@ -19,8 +19,7 @@ sass:
   style:            :compressed
 
 #List of Title Pages
-pages_list:
-About: '/about'
+pages_list:         {'About': '/about'}
 
 # About/contact
 author:
