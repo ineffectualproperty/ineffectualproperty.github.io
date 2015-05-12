@@ -1,5 +1,4 @@
-# cryptocrowdfunding
-## the democritization of venture capital?
+# the democritization of venture capital?
 
 + there has been a trend towards democritization and liquidity of private companies
 + consumer trend - kickstarter, indiegogo, etc. - band camp?
@@ -9,11 +8,4 @@
 + a wave of scams to come? armchair venture capitalist
 
 
-### notable crypto-sales
 
-+ maidsafe
-+ bitcoin (de facto pre-mine)
-+ ether/gas ethereum
-+ koinfy platform
-+ ripple
-+ factoom
