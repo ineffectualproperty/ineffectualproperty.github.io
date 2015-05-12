@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # notable crypto-sales
 
 + maidsafe
