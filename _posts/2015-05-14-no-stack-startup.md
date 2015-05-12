@@ -16,3 +16,12 @@ At the time I was focused on building more of a ‘full-stack’ startup, with a
 
 Another startup has slimmed down this concept with Roadie: http://techcrunch.com/2015/01/27/roadie-launches-as-the-uber-for-shipping-and-delivery/, by connecting only shippers and distributors. However, they are still performing two functions, on boarding/vetting drivers and providing a marketplace for shipper/distributor interaction.
 
+As I think about the ‘no-stack’ startup idea, maybe there is an opportunity to go one step further, and provide only the platform/exchange for the distribution market place. Essentially you could provide a very simple API for consumers/corporations that would integrate a variety of different distribution services, USPS, FedEx, Uber, Lyft, UPS, local couriers, Roadie, Amazon, eventually Drone services, etc. to provide shipping at the lowest cost. That way you outsource the onboarding process and focus on easy distribution platform.
+
+In China, private firms in the express delivery market made $25B, and were 75% of the sectors revenues.
+http://postandparcel.info/64833/news/chinas-express-delivery-market-is-booming/
+
+Unfortunately, the quality of these deliveries are pretty low, “Such complaints plague China's fragmented but booming express delivery industry, where delay, damage and outright loss of packages persistently erode Chinese operators' reliability and reputations.”
+http://www.reuters.com/article/2012/01/23/us-china-express-delivery-idUSTRE80M04V20120123
+
+
