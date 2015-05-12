@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # the democritization of venture capital?
 
 + there has been a trend towards democritization and liquidity of private companies
