@@ -2,33 +2,33 @@
 layout: post
 ---
 
-# summary stats
+## summary stats
 price
 shares outstanding
 market cap
 fy eps
 
-# investment thesis
+## investment thesis
 + conclusion
 + rationale and catalyst
 
-# summary
-## positives
+## summary
+### positives
 + #1
 + #2
 
-## negatives
+### negatives
 + #1
 + #2
 
-# company description
-## products
+## company description
+### products
 
-# valuation
-## relative
+## valuation
+### relative
 
-## fundamental/dcf
+### fundamental/dcf
 
-# industry outlook
+## industry outlook
 
-# sources
+## sources
