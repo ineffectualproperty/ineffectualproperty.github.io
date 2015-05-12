@@ -1,4 +1,7 @@
-# the democritization of venture capital?
+---
+layout: post
+title: the democritization of venture capital?
+---
 
 + there has been a trend towards democritization and liquidity of private companies
 + consumer trend - kickstarter, indiegogo, etc. - band camp?
