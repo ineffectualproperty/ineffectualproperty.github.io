@@ -2,8 +2,8 @@
 layout: post
 ---
 
-wow/diablo farming was early version of mining
+wow/diablo farming was early version of mining (proof-of-work)
 
-exchanges were able to stop these exchanges
+intermediaries (ebay) were able to stop these gold > dollar exchanges
 
-multi-currency exchange
+distributed multi-currency exchange will change gaming economies
