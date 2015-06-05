@@ -9,11 +9,11 @@ layout: post
 Recent marginalizations with a focus on profit have been shoehorned into a model which was based on egalitarianism, not McDonaldization"
 
 consumer added value
-+ credit cards providing fraud protection
++credit cards providing fraud protection
 
 overhead/tax
-+ regulatory compliance
-+ kyc/aml
-+ artificial scarcity
-+ 
++regulatory compliance
++kyc/aml
++artificial scarcity
+
 
