@@ -1,0 +1,3 @@
+# ineffectualproperty.github.io
+
+blog
