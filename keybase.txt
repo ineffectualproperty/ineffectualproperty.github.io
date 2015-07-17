@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/kellyolson
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am kellyolson on coinbase.
-  * I am kellyolson on keybase.
-  * I have a public key whose fingerprint is 4E16 9DC9 43B6 B19D EF6D  A62C 6832 876F CFAC EC0C
+  * I am an admin of http://kellyolson.net
+  * I am kellyolson (https://keybase.io/kellyolson) on keybase.
+  * I have a public key with fingerprint 4E16 9DC9 43B6 B19D EF6D  A62C 6832 876F CFAC EC0C
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
     "body": {
         "key": {
@@ -20,52 +21,47 @@ To claim this, I am signing this object:
             "username": "kellyolson"
         },
         "service": {
-            "name": "coinbase",
-            "username": "kellyolson"
+            "hostname": "kellyolson.net",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1437154845,
+    "ctime": 1437154954,
     "expire_in": 157680000,
-    "prev": "c14ed3f56308ff0a172406a2f8f715bb526a13cc9c48d36ca2bfef85fa7697ae",
-    "seqno": 4,
+    "prev": "14bd7c6ad64633fce69af4a4443e0ea9a6fe0b0b1aa16ae2d131f7d276b4ac7f",
+    "seqno": 5,
     "tag": "signature"
 }
-```
 
-with the key 4E16 9DC9 43B6 B19D EF6D  A62C 6832 876F CFAC EC0C, yielding the signature:
+which yields the signature:
 
-```
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.0.20
 Comment: https://keybase.io/crypto
 
-yMIPAnicfVJbSBVBGD521OyUlSEVYpH7YFFH2dmdnd2V7G4+daOsrOA0Mztji7bn
-dC4eRSyKgorICMmgzOytUupIFxEkjbTQjEANThe6neohgnotqWal3qJ5Geb7v+/7
-v/n5H2R7Pb60/pzK3Iy2G07acP/KmKfi6ooFDRIJWvVSSYNUzSYvbjtVLBwK205U
-KpEgA8i0qAlVgggwLcaRhZFCkaEqho445ZgyKlPJL+0LRlyFsCE4wortoMDEI2Bb
-Av0Hv3qyIAMZMIRMBXGTW6oMGdUxURCRTYNAyFSdExkQQ4WyZWEV64Comk6ABaBh
-YQspmGsyFnaxSTtNtzgwZQ6prmmQmgiItFiGGlUY1IDpEiMs7OD9bDJrTU19sCYS
-dKRGvyTwWpsydwh/6jRoO+5n/qeK1odcMM5I4I9BgNiOJaYoVLUsHLEFrwQIJo3a
-rh5AVQcaNKDml1hdyA6zgO0yNB0Zsjh+KRRmtW53AJmlcg2pssG5jIGuQBlhhRtc
-GBCiKQgDlVKTilGoiGKFcMYNjWMdmTp2U0fYAScolUARE1cJy4hd5eBoLMykxvt9
-e9I9aT5PZsYUdw88vmmz/25HojvL0/o+HW16tVRfZ6bu5OHS0zOTR75lFvBVnYdm
-fW67+On1hWlNLTvpqdysn1OmN9bldjSf7JmYXU5TX1Yd/XgrLr1JzPl2l4w9nTim
-DGYfvODEvS3Ru9+9iekfn8243vMsNbSG9u9du31he/Hq9q9fLxV2N/XOfbH8w9Yy
-b3rveMb5+WOj71JXyv3rLyemNq2YGEiuTH1+/GZ7/qPC/IcnW34Z3X1lbYd3bV3Q
-UDTc+mXx2TrQmVrXPK/2YBDHe2PxZfMKivNOvXh770Tsx8ac5MCOxhPPS8fyj28Y
-mDF0beDmYEXy9kjnyLL8rvLCLS/PLfLN3dzR4++oH79aNPqka8nubcaZNZW/AQ+4
-J/A=
-=wv1T
+yMIcAnicbZJbSBRRGMdnK80ksygjSormISiWbc7OmTN7Ntru2Q1CaglB2M6ZObM7
+uc1se7EkrQwKars8SEJS2OXB7kUoaESkmBULaTcIrQxTuoEVhD1Y0Zmlnuq8HM73
+/f+/78LpLBgr5Lvap5RNy2m8brky7StTQvBi4PBukdp6lejfLVaw7GWYVpjFY3HT
+Sop+ETKAsK5hKFNEAdaZgXSCvBryyV6figzNIBrTJE10ixE74Tg4hpIE85g2j/FH
+yNR59D/6imxCAhJgCGEvMrChyxJkmkqoF1EJ+yiETFYNKgHqk6Gk60QmKqCyolKg
+A+jTiY68xFAkwnGpLE5RdQNgyYCaqihQwwjwbokEFc3LoAKwI0ywuEW2s2yv0WiV
+HU3YlljjFnm80tSYswRnln80HosluT8Wt5O2Zkd5LpJMxvyONVkVc7Q7GQ39oYSo
+ael8ldxQyeIJk5fwA67UkqaDBVBWgQKxAt0i2xUz4yxkOgpFRT6JH6cMq+RIAKmu
+aohPCpEsGxpDmBiQQAhlJjGCCTKYRCUKCAGIMK8OZGCouldFFBJNNURnrh2WLfoV
+3iYJc2TCDFskmYozsabjbvk4wZUv5OaMcT6DkD9h8t8vcrk9Tziz9uTSX5/Oznkp
+CODRvYnHVq8oiT24mTlqP235PPS535W+fWTx/I/TOgCwN1V/3zI8vas6PaPR0+0e
+eVKXG/g079TWa4Ozi5dd2gvTC1fJTa245eCzqZnCVMX7kqIlA28395QdKB8tDrSG
+j49sy8OZtgVDhwOL1dxYdGN6cNWv3n09bY83/AxtGz0h3Rg/h7z6MeLZF8PnJt1t
+fNPaVX+1v7+g8PmX+y+G9+zv27Gu9NtAZMzr2lzzNBj/oYnemuU/nwl0Ydy8aH3n
+5jWLls+cG20fLC0caP16fXL30Oih1Q+tluaDYrChrru2oaivd8uF4Nyvr6beibwT
+fijB2itv6n1FvwHQwS60
+=Bx4O
 -----END PGP MESSAGE-----
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the coinbase account by posting this on coinbase.com
+View my publicly-auditable identity here: https://keybase.io/kellyolson
 
-### My publicly-auditable identity:
-
-https://keybase.io/kellyolson
-
-```
+==================================================================
